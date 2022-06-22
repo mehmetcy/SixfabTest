@@ -4,3 +4,5 @@
 
 ### Deneme
 Bu bir deneme başlığıdır..
+
+Aydanur deneme commit.
